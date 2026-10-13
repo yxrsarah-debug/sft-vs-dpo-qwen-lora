@@ -1,0 +1,4 @@
+beta,final_margin_train,final_accuracy_train,final_chosen_reward,final_rejected_reward
+0.05,3.8073,0.9288,-2.9471,-6.7544
+0.1,4.7213,0.9455,-1.9674,-6.6887
+0.3,7.53,0.9483,0.4804,-7.0497

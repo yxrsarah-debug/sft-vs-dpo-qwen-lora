@@ -1,0 +1,6 @@
+model,preference_accuracy
+base,0.325
+sft,0.335
+sft+dpo(β=0.05),0.455
+sft+dpo(β=0.1),0.38
+sft+dpo(β=0.3),0.355
