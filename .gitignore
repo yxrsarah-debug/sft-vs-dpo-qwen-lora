@@ -1,0 +1,24 @@
+# macOS and notebook checkpoints
+.DS_Store
+.ipynb_checkpoints/
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Training artifacts and archive bundles
+outputs/
+outputs_*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.zip
+
+# Secrets and local configuration
+.env
+.env.*
+secrets.json
